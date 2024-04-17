@@ -7,3 +7,4 @@
 *.db
 *.pyd
 *.ilk
+/lib - Copy
