@@ -1,0 +1,9 @@
+*.json
+*.pdb
+/lib
+/internal
+/out
+/.vs
+*.db
+*.pyd
+*.ilk

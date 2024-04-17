@@ -1,0 +1,6 @@
+[submodule "lib/python"]
+	path = lib/python
+	url = https://github.com/cython/cython.git
+[submodule "lib/sqlite"]
+	path = lib/sqlite
+	url = https://github.com/sqlite/sqlite.git
